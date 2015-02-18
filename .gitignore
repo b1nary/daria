@@ -1,0 +1,7 @@
+*.gem
+*.rbc
+/.config
+/tmp/
+Gemfile.lock
+.ruby-version
+.ruby-gemset

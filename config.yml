@@ -1,0 +1,10 @@
+# General config
+general:
+  name: Daria
+
+# Wit.ai config
+wit_ai:
+  server_token: K7OGKEPASUJMF6U2SKTQUJKWRXURECZX
+
+# Plugin configurations
+plugins:
