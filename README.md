@@ -1,4 +1,4 @@
-![Daria Temporary logo](https://i.imgur.com/s2jcKp4.png)
+![Daria Temporary logo](https://i.imgur.com/LNEo6S9.png)
 
 # daria
 daria is a simple extendable home automation system based on voice (and text) developed in Ruby. It is designed for german language processing but will hopefully support english in the first release as well.
@@ -71,4 +71,6 @@ Also the language processing was a problem i did not face yet, and wit.ai does t
 ## Changelog
 
 - 0.0.1
-  - Init repo (multiple commits)
+  - Init repo
+  - Creating scaffold
+  - Smaller image
